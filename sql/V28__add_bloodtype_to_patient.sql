@@ -1,0 +1,2 @@
+ALTER TABLE Patient
+ADD COLUMN BloodType VARCHAR(10);
